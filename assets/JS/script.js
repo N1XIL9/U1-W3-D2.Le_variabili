@@ -27,7 +27,7 @@ numberOne = '10';
 
 
 let booleano = true;
-booleano -= sectionTwo;
+booleano += sectionTwo;
 
 // Esegui delle operazioni di somma e sottrazione
 
@@ -42,6 +42,6 @@ console.log(sectionOne);
 console.log(sectionTwo);
 console.log(age);
 console.log(number);
-console.log(booleano);
+console.log(booleano + true);
 
 
